@@ -10,4 +10,5 @@ public class PalTrackerApplication {
         SpringApplication.run(PalTrackerApplication.class);
     }
 
+
 }
